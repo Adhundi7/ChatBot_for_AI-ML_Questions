@@ -1,0 +1,27 @@
+
+We are assuming there is a single minimum,we will 
+stop there when we  reach there, the quadratic function
+ or in general convex functions into one. we will reach the
+ minimum of it. But if I have multiple minimum, we 
+have no idea whether we are reached to global 
+minimum. We know that we have reached the local 
+minimum, whether that local minimum is the global or 
+not. This is one of the biggest headache in gradient 
+descent learning for lot of problems. Especially when 
+we talk about Neural Networks later on, this is the biggest 
+issue. Neural Networks is notorious in this kind of function. 
+So, we will get stuck in some local minima. 
+
+Cont..
+
+Using generic function we can’t find it. If we have a
+ quadratic function, we can use calculus to tell us 
+what it is or in general if a convex function, the 
+class of function called convex function for which 
+we can actually find that. Even a whole branch 
+of optimization called convex optimization which is 
+primarily built on this thing and incidentally your 
+SVM solves in this way as a formulate a convex 
+optimization for this problem and directly jumps 
+to the minimum. 
+

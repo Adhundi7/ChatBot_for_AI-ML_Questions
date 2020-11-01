@@ -1,0 +1,11 @@
+Network will take appropriate correlations, there are some redundancy 
+between features. 
+
+Cont..
+
+ At this moment we don’t care, what type of relationship exists between 
+these two. For example there is a height and there is a weight there is a 
+relation between them. And I am not even caring what it is at this stage. 
+So the relation between them is taken care by the internal units later
+ when we design a network and when you solve this problem the network 
+takes care of the relation between them. 

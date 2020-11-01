@@ -1,0 +1,1 @@
+You have shown Multi-layer Perceptron diagram. What is the difference when comes to RNN?

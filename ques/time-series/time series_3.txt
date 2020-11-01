@@ -1,0 +1,1 @@
+Role of NN in time series data. If here we are taking x and y and assuming a  model, finding w through backward propagation right? So, what exactly is NN doing?

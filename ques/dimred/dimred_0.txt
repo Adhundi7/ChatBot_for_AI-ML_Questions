@@ -1,0 +1,1 @@
+If there is a problem where I have to arrive at w0, w1 of x1, w2 of x2, w3 of x3. Can it be compressed and put into a single variable. In linear regression we try to arrive at this line

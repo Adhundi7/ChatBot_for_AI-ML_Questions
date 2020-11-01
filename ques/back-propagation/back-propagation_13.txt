@@ -1,0 +1,1 @@
+How do we know how many more backpropagation to do and where to stop it? Does it depends on the amount of time spent on training ? Is there any some self error correction that can be modelled ?

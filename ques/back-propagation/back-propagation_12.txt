@@ -1,0 +1,1 @@
+In the previous slide we saw the computational block right, So is it a combination of 'w' and 'a' function or is it different ?

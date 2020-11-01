@@ -1,0 +1,1 @@
+The predictions we make using this time series model the gains or loss will not be huge because the model has already told the future?

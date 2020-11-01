@@ -1,0 +1,2 @@
+when you are driving you understand some certain situations which are repeated in nature. So while you solve the problem. What do you apply? Is it a high level of generalization? Car has to drive in that speed limit in that traffic zone or slow down near speed breakers?
+If we make the highway where car is driving predictable so that it will never change, will car just drive? Is this enough for the machine learning algorithm training? Or do we add code for hard limits like speed limits etc.?

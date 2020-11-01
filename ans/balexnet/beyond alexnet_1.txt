@@ -1,0 +1,1 @@
+GANs as of now, they are only acting as generators. Their variants are used for different applications. 

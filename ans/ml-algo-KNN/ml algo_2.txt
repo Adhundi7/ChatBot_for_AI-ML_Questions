@@ -1,0 +1,1 @@
+kNN is a machine learning algorithm to classify the data. You will given this kind of data to be classified.

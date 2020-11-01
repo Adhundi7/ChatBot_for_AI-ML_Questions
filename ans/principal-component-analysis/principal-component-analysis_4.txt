@@ -1,0 +1,1 @@
+No, there are two major blocks. First is representation and second is classification/ algorithm. We are still talking about representation. Initial lectures we will concentrate on representation, further it will be on second part. 

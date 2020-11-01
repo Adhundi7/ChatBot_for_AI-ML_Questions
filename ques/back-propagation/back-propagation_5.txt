@@ -1,0 +1,1 @@
+The question is the entire algorithm will works more accurately, then what about the initialization will be ?

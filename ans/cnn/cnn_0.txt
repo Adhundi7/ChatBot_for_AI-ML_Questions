@@ -1,0 +1,1 @@
+for speech, text, ECG, any kind of signals that you have, time sequence, etc., then it is a 1D signal.

@@ -1,0 +1,4 @@
+No. There is a lot of ways which we will do.
+Cont..
+People are moving, speeches changes a lot. If  you look at the latest speech results from google, alexa all the speech qualities are very very different, speech synthesis performance also very different and all these are based on deep learning. So, if you look at the modern google TTS output etc, look at the quality of the sound is human like, you can’t even distinguish.
+

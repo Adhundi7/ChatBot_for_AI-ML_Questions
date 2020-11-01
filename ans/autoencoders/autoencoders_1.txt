@@ -1,0 +1,7 @@
+Two examples that I said one is compression I want to compress my data and send across what features should 
+I retain when I send across and reconstruct the original or speech back the representation for that can be solved
+ without having any labels. Second is if I want to do compact feature representation for any other purposes after
+ that I want to do supervised learning
+Cont..
+It is a step in the machine learning process, representation is one step in this process and we can do unsupervised 
+learning is what we are saying.

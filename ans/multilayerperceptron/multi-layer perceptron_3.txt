@@ -1,0 +1,6 @@
+
+Forget about where the Neural Networks and deep learning comes. The first issue 
+is about if you know your physics is clearly telling the relationship let us not 
+worry here. We can directly write the code. When the relationships are 
+complex,we put them under one function. when the function is also 
+complex for example, the relationship is not very simple for us to understand. 

@@ -1,0 +1,1 @@
+So, normalization is only just.. After every neuron you know that it will do sigma of wi xi and pass it on if you are using sigmoid the classic one in neural network your output is always limited between zero and one or -1 and +1. Whereas a kind of non-linearity I’m using here is a relu … Because of relu function nature, we use the normalization.

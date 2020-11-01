@@ -1,0 +1,1 @@
+You are saying can we do better than this? Instead of taking 3 days or 5 take 1 week. We have to make an assumption about what part of it is it going to affect. Internally NN has the capability to find average etc. Deep in the NN, any feature need like mean or standard deviation can be computed. You dont have to use your intuition to define that feature. 

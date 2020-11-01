@@ -1,0 +1,1 @@
+Explain about U and V in RNN architecture

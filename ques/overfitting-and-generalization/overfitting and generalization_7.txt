@@ -1,0 +1,2 @@
+Difference between overfitting and memorizing?
+On one side we are saying if we have more data you will end up memorizing and on the other hand model will overfit with less data?

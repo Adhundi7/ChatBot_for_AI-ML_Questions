@@ -1,0 +1,1 @@
+How are we confining weights and how do we define a network , which node fits to the other node?

@@ -1,0 +1,1 @@
+In each layer we have the value as W, then how to know it belongs to w1, w2 or w3 ?

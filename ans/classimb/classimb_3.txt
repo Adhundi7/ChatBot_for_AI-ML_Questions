@@ -1,0 +1,19 @@
+one is to make sure that you are not overfitting and another
+ make sure that you are not underfitting both are bad for 
+you if you look at the validation curve it looks like that 
+validation accuracy to be high validation error to be low. 
+If your model is too complex your validation error is too 
+high or if you train too much the error rate is high your
+ training curve always goes down but the validation curve 
+is always same if you have more number of features you 
+will end up with complex ones so you wanted to throw 
+unwanted features if you have few good features it will
+ perform well but you don’t know how to extract those 
+features what do I do is I will throw away these features
+ let the machine learning algorithm figure out what are the 
+features. I will throw all the data and I will ask machine 
+learning model to reduce the features and then try it 
+out. Hopefully it will figure out what are few features 
+that are perfect for it. If we ask the generic problem
+ finally you tell it depends on the data that you 
+will take.

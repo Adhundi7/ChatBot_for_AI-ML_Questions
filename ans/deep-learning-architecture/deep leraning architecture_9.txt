@@ -1,0 +1,5 @@
+Now, you are talking about video recognition. All this..
+Cont..
+So, now are asking that input should contain multiple images now.
+Cont..
+Yes, that’s possible with CNN such as activity detection and stuff like that. 

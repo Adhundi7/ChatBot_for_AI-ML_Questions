@@ -1,0 +1,6 @@
+Is it necessary that all the outputs of one neuron are
+ input to each one of them ?
+
+Cont..
+
+How we decide whether it is necessary or not?

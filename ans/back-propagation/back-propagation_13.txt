@@ -1,0 +1,1 @@
+With time error comes down. If we are working on full data, each time error is calculated for full data, the graph will be monotonically decreasing graph.Sometimes when we take random sampling, the graph maybe not so clean.We stop when the error is not changing much.

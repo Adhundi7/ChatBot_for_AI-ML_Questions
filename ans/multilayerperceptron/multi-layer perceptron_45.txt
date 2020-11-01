@@ -1,0 +1,1 @@
+No, if the weights are small then they can not be on critical path

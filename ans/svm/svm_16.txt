@@ -1,0 +1,9 @@
+Kernel function is way of measuring similarity. 
+Cont..
+No. 
+Cont..
+Human and mammal could be overlapping classes. Since you are training separate classifiers it won’t be a problem. 
+Cont..
+Each datapoint has two class labels y1 whether first class is present or not, y2 whether second class is present or not. Each datapoint has 4 possibilities: none of two classes, 
+first class, second class, or both the classes. With respect to each of these labels we can train a separate classifier and looking at the output of classifier we can tell if that class is 
+present or not. If both the classes are present both the classifiers output to 1.

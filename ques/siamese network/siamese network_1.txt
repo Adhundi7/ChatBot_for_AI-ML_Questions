@@ -1,0 +1,1 @@
+Depending on he pose of the object and person, if I want to put it into autonomous car, the car would have to take a particular decision?

@@ -1,0 +1,1 @@
+Input is a random number between 0 and 1 and I say generate 100dimensional vector and every number in the vector is a number between 0 and 1.

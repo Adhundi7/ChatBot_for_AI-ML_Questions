@@ -1,0 +1,1 @@
+If very less classification is done on very less features? So if many trees start voting for at impure nodes, so they land up at like impure nodes. So you will give a point like a weightage or something? In random sampling won’t we lose features which will help in separating on basis of maximum entropy?

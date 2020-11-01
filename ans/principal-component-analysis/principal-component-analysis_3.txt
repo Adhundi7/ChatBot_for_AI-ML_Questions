@@ -1,0 +1,1 @@
+We will closely watch, if we are throwing away signal we will not take it. When your accuracy is decreasing you are actually throwing away signal. Test time also may depend on dimensionality. 

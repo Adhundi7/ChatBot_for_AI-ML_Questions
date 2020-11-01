@@ -1,0 +1,7 @@
+Yes, the position is important. Weather a word occurs before or after a word.
+cont..
+ No, that’s not the way. We are only going to look at tuples and 
+type. Suppose let’s say “evil”, it occurs in the left of “ahimsa” 
+and “iniquity” occurs in left of “nonviolence”. If I know that 
+“ahimsa” and “nonviolence” are same thing then we can say 
+that “evil” and “iniquity” are also very close to each other.

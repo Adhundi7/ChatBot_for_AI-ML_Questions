@@ -1,0 +1,3 @@
+I won’t go to the details because we will comeback to this when you talk about  back propagation. Vanilla backpropagation is applied to train a Multi-layer Perceptron. When we went to deep Neural Networks this did not work. The reason was that, being a deep Neural Networks, chaging a loss at the end of the tunnel by changing a loss here, gradient was very small which we cannot handle numerically. Problems like vanishing gradient, exploding gradient started occuring. Small improvements were made to BP algorithm during 2010s. Like keeping the weights in certain range, have certain mean, have certain variance.
+Cont..
+Softmax is an actovation function. It is what we want our output to be like. Max value will be close to 1 .

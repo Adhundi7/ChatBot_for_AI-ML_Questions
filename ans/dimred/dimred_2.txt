@@ -1,0 +1,3 @@
+Absolutely, one aspect of dimensionality reduction. We are not looking for a diagram for human conception at this stage. The algorithm by looking at data, gives which direction to use. 
+Cont...
+Wait for few slides, we will see how to do that.

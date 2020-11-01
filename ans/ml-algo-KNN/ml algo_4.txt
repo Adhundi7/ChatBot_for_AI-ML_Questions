@@ -1,0 +1,1 @@
+No, because k is called as a hyperparameter. Its not part of w’s traditionally, where w are parameters and k is hyper parameter. So, its technically not classified as learning.

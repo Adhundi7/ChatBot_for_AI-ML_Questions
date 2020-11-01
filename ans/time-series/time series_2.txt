@@ -1,0 +1,1 @@
+We were given 7 data sample and from that we created x-y pairs for training an MLP

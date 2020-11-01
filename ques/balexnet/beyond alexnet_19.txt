@@ -1,0 +1,4 @@
+In the concept of Inception does the 
+average pooling reduces the number of 
+layers. Here are we using max or average
+pooling. How does it is related?  

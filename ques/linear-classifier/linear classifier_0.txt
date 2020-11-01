@@ -1,0 +1,2 @@
+Without knowing what is f(x) and w how can we 
+minimize the prediction error.

@@ -1,0 +1,1 @@
+What are my variables in the GAN when I’m training the model?

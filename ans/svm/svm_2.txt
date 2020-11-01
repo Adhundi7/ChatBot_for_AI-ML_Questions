@@ -1,0 +1,1 @@
+Minimize WTW. From each datapoint to the margin distance is 1.

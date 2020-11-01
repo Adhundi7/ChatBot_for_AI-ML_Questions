@@ -1,0 +1,3 @@
+This is trained using backpropagation only initially we have random numbers all over here the weights here 
+are random when I multiply you get some random image you will take the error between that image and actual 
+ideal output, Ideal output is same as input image we are using it as a label the label is your input itself.

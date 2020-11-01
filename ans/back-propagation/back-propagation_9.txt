@@ -1,0 +1,1 @@
+So this block does not have a learnable parameter. In chain, some blocks do not have any learning. You may put sine there, iti does not learn anything.

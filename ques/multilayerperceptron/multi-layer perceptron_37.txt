@@ -1,0 +1,10 @@
+Can we say that when we are not able to decide based on
+ the input data, what is an clear relationship between those 
+that input data it will lead to the output, weather it is going 
+to be linear, classification, regression or something.
+
+we are not able to find the what kind of 
+relationship from input data is used to generate one, 
+two, three outputs. How do we deal  with this kind of 
+problems.
+

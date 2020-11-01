@@ -1,0 +1,3 @@
+Let us assume that there is a classification problem in  which we are coding 
+one class as one and other one as zero. In such case how does 
+this loss function helps ?

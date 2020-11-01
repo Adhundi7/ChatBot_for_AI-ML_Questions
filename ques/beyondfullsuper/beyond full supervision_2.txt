@@ -1,0 +1,1 @@
+We are talking about where the samples for same class have to be different from each other. This can happen for any kind of classification problem right? If that happens, how will we know? For images, we saw this. Contd.. (Conversation of three more questions)

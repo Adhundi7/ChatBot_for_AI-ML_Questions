@@ -1,0 +1,2 @@
+Does artificially created features are reduced during the 
+feature reduction process?

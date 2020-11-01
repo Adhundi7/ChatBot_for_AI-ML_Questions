@@ -1,0 +1,1 @@
+Do we keep the training data after the model is trained using that data?Do we impose new data?Storage cost implications?

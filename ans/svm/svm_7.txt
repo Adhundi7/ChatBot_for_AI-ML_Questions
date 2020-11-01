@@ -1,0 +1,3 @@
+N is the number of elements in the dataset. xi are vectors, 𝛼i and yi are scalars. 
+We are taking linear combination of some vectors, the result is going to be a vector. 
+We are not taking the dot product of any vectors, so we don’t get any scalar.

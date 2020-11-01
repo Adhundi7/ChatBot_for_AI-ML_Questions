@@ -1,0 +1,1 @@
+The assumption can be made that apple is bigger than orange. The neural network can be trained with taking apple as 0, orange as 1, 2 as banana and 4 as mango and it can also be trained as apple as 001, orange as 101 etc. The smoothest way to get high performance is to encode.

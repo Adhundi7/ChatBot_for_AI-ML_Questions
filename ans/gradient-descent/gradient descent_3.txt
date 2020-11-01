@@ -1,0 +1,18 @@
+The another way to think about gradient is slope. We can move 
+closer and closer to optimum, we will naturally see that our step 
+size will get smaller and smaller. The problem is that we will never 
+reach the minimum, we will be taking more and more smaller and
+ smaller steps that we will be slowly keep on approaching the 
+minimum, we never reach. So in practice what we do is one
+ step size becomes too small. If I haven't reached the minimum 
+but I'm pretty close to it I am happy with that. 
+
+Cont...
+
+
+No as I said, the picture was one dimensional but in general when I 
+said w, delta_w was a vector. Think about it in two dimensional 
+space I will start with the random w means random point in 
+two dimensional space your derivative will be a vector. 
+So when I say negative derivative are moving in this direction, 
+I am updating all the values of the one.

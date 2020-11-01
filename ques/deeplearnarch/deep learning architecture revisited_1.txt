@@ -1,0 +1,1 @@
+If I take an example of elections, whom a particular person has voting power, I can demographic data, economic data etc., in these situations CNNs won’t make sense right?

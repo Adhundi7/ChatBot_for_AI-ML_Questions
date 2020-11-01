@@ -1,0 +1,1 @@
+Time taken for training is not important and also said that we don't know if we are trying to throw away the signal or noise. There can be some amount of risk factor doing in this. Can we leave it as it is?

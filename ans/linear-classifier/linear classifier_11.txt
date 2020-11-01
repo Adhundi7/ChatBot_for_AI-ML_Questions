@@ -1,0 +1,12 @@
+The line that could be separates red and blue is the classification 
+problem. There is a regression problem where there are a 
+bunch of points are given and we are supposed to learn a 
+line that passes through all the points that’s very related to 
+machine learning problems. Some of the real world problems, 
+when we try to map it into machine learning problem 
+or it into regression problem and there our yi would be the 
+output and our xi would be the input. So basically our input 
+and output pair which we want to approximate a line. 
+Whatever we are discussing will be applied to both. 
+So it doesn't fit very well to classification the way we are
+ discussing the reason is primarily this one.

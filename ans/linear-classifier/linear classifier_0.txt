@@ -1,0 +1,7 @@
+During training we only have one unknown ie's 'w'.  When we 
+say learning ie typicaly means learning the parameter 'w' by
+assuming that we know f(x).
+
+In case of Linear models , we learn parameter ' w' by assuming
+f(x) as linear to make best predictions from x to y for the 
+training set.

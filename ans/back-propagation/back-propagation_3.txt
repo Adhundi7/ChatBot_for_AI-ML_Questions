@@ -1,0 +1,1 @@
+We have not moved from dL/dW to dL/dX. Let me explain in a few slides.

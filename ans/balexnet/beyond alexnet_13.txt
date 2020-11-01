@@ -1,0 +1,10 @@
+Based on backpropagation gradient descent. The
+gradient descent decides that If I change this 
+network if I increase the weights a bit it can further 
+increases from 20. I start with 20 layers and I 
+add bi-pass layers to that then train then only it 
+improves you can put the whole thing together 
+initialize and then learn. In general you don’t do 
+20 layers learning and then do 50 layer training. 
+Put whole 50 with the bi-pass connection and then
+learn

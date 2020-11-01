@@ -1,0 +1,1 @@
+CNNs work on data which has local meaning. If the information content is present locally, then only CNNs work. One of the biggest advances in terms of going from raw data to input is the CNNs. Only where these things are possible, CNNs make sense. We can use CNNs in continuous processes such as speech, sequential data, etc., 

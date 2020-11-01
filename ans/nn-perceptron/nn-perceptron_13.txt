@@ -1,0 +1,1 @@
+Different problem will have different requirement. Today, we are talking about how to get X? Eigen faces, PCA bag of words helped us. Depending on the data you have different ways of computing X. 

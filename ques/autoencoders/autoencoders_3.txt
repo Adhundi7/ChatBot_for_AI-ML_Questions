@@ -1,0 +1,4 @@
+In the layers of Auto Encoders is there any 
+Back Propagation involved because there 
+is no error as back propagation requires 
+labels

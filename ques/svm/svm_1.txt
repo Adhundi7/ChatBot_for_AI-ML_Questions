@@ -1,0 +1,13 @@
+
+For minimize the error which of the following classifier 
+perform 
+A.Linear classifier
+B. MLP
+C. Maximum Margin
+
+Cont..
+
+To learn linear classifier do we use gradient descent 
+
+Cont..
+How we can maximize the margin?

@@ -1,0 +1,1 @@
+Yes no loss in the middle because our problem comes with only input output specification. All the hidden nuances are creation. We may have one layer, we have two layer, we may have three, we may have five here, we don’t know label is available only for final layer.

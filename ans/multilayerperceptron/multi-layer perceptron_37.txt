@@ -1,0 +1,6 @@
+No, If you know clearly what is a relation between input and output even you need 
+a machine learning. To find a simple pendulum equation you don’t need machine 
+learning you can do that by using your physics knowledge. So,We will use this sort 
+of technique when the system is so complex that we are not able to model. 
+Beyond our science and physics understanding that is were this picture comes 
+under. 

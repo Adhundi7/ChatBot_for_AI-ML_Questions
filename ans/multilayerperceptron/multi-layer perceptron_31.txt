@@ -1,0 +1,3 @@
+When we learn about kernels, we don't even calculate this, though we are 
+computing quote and quote in the infinte or 100 dimenssion our pratical
+computations are in low dimenssion space.

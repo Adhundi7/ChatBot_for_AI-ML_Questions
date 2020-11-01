@@ -1,0 +1,12 @@
+Partially yes, we have that insights how it works we 
+now know why it work is different we don't want to 
+debug. we think that specific things work and after 
+that we figured out we can do the last one which 
+superseeds the remaining and we doesn't want to 
+do the previous ones that worked well even we 
+simplifyed also the things that works and doesn't 
+work every thing is simple and intutive you think 
+I could also have done this
+we are still called top five only not top one 
+because there is a ambiguity issues are there 
+in the top five.

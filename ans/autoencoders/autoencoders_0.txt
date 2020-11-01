@@ -1,0 +1,12 @@
+It is a generic type. Essentially if you want sparse representation you can use. The representation in the 
+middle you force it to be some kind of sparse representation. Sparse means that if I have feature 
+vector, only some elements in that feature vector are non-zero and most of them are zero by forcing it to be 
+sparse you will end up with learning better representation. This has got long history to it before deep learning 
+started sparse encoders are one of the most happening topics in 2010. Every problem was attempted as a 
+sparse encoding and dictionary learning why because it reasonably works well there are many problems which 
+I do sparse encoding it becomes a much better representation to solve many problems are suppose to be 
+generic feature learning. You can do some kind of training to force the middle layer to be sparse. If I want 
+to enforce that kind of sparsity in the middle or if I want to introduce denoising in the middle these doesn’t 
+change and fundamental idea of unsupervised learning. We only have the data the data is same as what 
+we put in the output that structure can’t change then it doesn’t become a autoencoder. So we can use some
+additional constraint sparsity.

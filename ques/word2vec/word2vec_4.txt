@@ -1,0 +1,2 @@
+In given sentences we are completely ignoring the stop words, but some stop words like “not”, 
+“doesn't” which changes the context of entire sentence. So, how can we deal with that ?

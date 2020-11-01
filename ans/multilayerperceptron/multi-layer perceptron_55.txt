@@ -1,0 +1,3 @@
+Yes
+Cont..
+Usually a classifier algorithm will not handle the situation where I do not know the number of classes, because when I train I need to know number of classes.You need to say I am classifying between apple orange banana etc. The problem statement has to come with that.

@@ -1,0 +1,1 @@
+You said that a problem can’t be divided into smaller problems? In software industry, to solve a problem a solution is obtained in multiple phases. So, shall we consider each of these phases as a smaller problem?

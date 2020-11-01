@@ -1,0 +1,3 @@
+In order to adjust weights we should really know what 
+each of those in the hidden layer are representing the 
+function?

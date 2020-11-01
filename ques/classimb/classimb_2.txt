@@ -1,0 +1,3 @@
+While performing cross validation, When we try to 
+repeat the task many times does our goal is to 
+estimate the parameters.

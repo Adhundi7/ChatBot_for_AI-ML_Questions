@@ -1,0 +1,2 @@
+Remember these all are the matrices, for each of them we need to update the values. Matrix will have p and q elements.
+No. We are not computing loss at this stage. We adjust all the w’s and then we computing it. 

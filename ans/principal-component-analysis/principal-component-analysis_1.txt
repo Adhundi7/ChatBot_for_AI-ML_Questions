@@ -1,0 +1,1 @@
+(Geometrically) Assume a set of points that come from a multivariate distribution. Two eigenvectors and corresponding eigenvalues are shown.

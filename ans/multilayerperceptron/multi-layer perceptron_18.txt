@@ -1,0 +1,4 @@
+If you look at last neuron we have four of them coming there is Σwixi then there is 
+a ɸ. So, ɸ could be a threshold nonlinearity which says that if sum of  wixi is 
+less than zero then the output is zero. If it is greater than zero then the 
+output is one. 

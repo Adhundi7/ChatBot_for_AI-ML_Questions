@@ -1,0 +1,1 @@
+ But the discriminator is always looking at the celebrities data only

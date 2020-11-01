@@ -1,0 +1,1 @@
+Is my understanding correct that is gradient of gradient is taken? Does second derivative improves the speed at which we are converging but not necessarily the question of local minima?

@@ -1,0 +1,23 @@
+You are saying network and deep learning as 
+generic. The story of deep, deeper and deepest 
+network works best with resnet after that people 
+trigger out that it is not working well much after 
+that people using resnet-t or 100 most then start 
+tweaking other architectures we will see.
+Cont...
+Architecture changes is not what you tweak here. 
+What you do is you take problem which is similar
+to yours if it is an image problem we look at the 
+nearest image corresponding that other do take 
+that as architecture and tweak those parameters 
+that's the normal thing 
+Cont...
+
+Yes, image is also a regression problem the only 
+difference between classification and regression 
+is it got n number of labels and regression got 
+continuous labels the output will be either 
+1, 2, 3, 4… or the number between 1 to 4 for 
+the network it is outputting somewhere between 
+1 to 4  we push it to 1, 2, 3, 4 to force classification 
+at the end obviously it is doing classification.

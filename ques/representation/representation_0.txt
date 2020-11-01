@@ -1,0 +1,5 @@
+If the training algorithm is 
+slower why are going with it
+and wasting the time? Why we 
+going for slow algorithm and 
+better performance testing?/

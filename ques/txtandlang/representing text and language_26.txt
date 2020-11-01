@@ -1,0 +1,1 @@
+When we take a pair of words, what is the distance between the pair of words?

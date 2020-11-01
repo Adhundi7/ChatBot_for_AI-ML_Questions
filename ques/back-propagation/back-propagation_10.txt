@@ -1,0 +1,1 @@
+For every layer we are calculating and changing. So at the end, will the complete network is updated or just certain layers will be updated ?

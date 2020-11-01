@@ -1,0 +1,1 @@
+Vanilla BP not working for deep neural networks due to vanishing gradient problem. Is this because it is not fast enough?

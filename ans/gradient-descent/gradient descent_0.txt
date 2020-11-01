@@ -1,0 +1,8 @@
+Suppose we have two dimensional feature space and we have 
+a line that separates the more, we  move away from the line. 
+we will get more and more positive values or more and more 
+negative values. On top of it is What we will get is a function 
+that looks like this in the space. It will be flat, almost flat zero 
+here and then suddenly we will  jump up and then again one 
+on the other side.
+

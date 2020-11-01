@@ -1,0 +1,5 @@
+Those are what we call as parameters which means I’m gonna learn that
+Cont..
+So, in the case of sound it is “ka”, “kha”,  in this case, it would be lines and curves and stuff like that. 
+Cont..
+I don’t learn. I don’t know. Okay? I’m not even telling the network that these are.. Remember this statement again and again “Whatever our intuitions are, don’t try to teach the network. Let the network learn by itself”. We just give the data and it learns a set of features, later on, we might look at that and say “Oh, what you learned is actually a “ka” that you might realize. But there might be some features which we can’t figure out even what is it doing that doesn’t mean it is not meaningful. It might be learning something meaningful which we can’t even figure out what it is. That’s possible. 

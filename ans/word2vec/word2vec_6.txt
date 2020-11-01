@@ -1,0 +1,4 @@
+Yes, the dimensions also matters. If I use very few dimensions like 2D or 3D it won’t 
+be able to learn this well. cont.. Yes, the way of grouping together could change, it 
+won’t be able to do a good job of it. If it is very large dimension then it won’t learn 
+much. cont.. Through experiment.

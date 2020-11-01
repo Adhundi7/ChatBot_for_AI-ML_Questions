@@ -1,0 +1,2 @@
+Basically the purpose of kernel is to separate the data. 
+Doe's the non-linear transformations are also doing the same thing. 

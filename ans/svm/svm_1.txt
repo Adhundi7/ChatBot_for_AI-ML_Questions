@@ -1,0 +1,11 @@
+Minimization of error in training dataset is not always the goal. In the end you want to minimize the error for test dataset. When you have a 
+supervised dataset, you split the dataset into training and test datasets. You do not use entire dataset. You will learn parameters on training 
+dataset. In testset your model may perform badly. If you look at accuracy or loss on the testset these kind of classifiers perform better. A linear 
+classifier may do better than MLP in this case. Even a maximum margin classifier may do better than linear classifier.  
+
+Cont..
+We can either use gradient descent or perceptron. Both give linear classifiers.
+
+Cont..
+
+It should minimize the error while conditioned on maximizing the margin. I will describe the algorithm next.

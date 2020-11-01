@@ -1,0 +1,3 @@
+It is for time series only the concrete examples that we are showing use time series only provided stock
+markets has got a pattern.
+

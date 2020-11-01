@@ -1,0 +1,1 @@
+Step function used in slides(sigmoid), why do you insist it is non-linear?

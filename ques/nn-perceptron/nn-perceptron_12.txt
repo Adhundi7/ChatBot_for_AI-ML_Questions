@@ -1,0 +1,1 @@
+We have learnt that deep learning is a hierarchial representation, do different levels indicate different hierarchies?

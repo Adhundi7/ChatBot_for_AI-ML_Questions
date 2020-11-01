@@ -1,0 +1,1 @@
+What happens in the beginning of RNN when we don’t have a history?

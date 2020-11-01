@@ -1,0 +1,1 @@
+Can we use strong classifiers to get better results in bagging and boosting? (As we get strong classifiers from weak classifiers in boostong and in bagging we aggregate weak classifiers)

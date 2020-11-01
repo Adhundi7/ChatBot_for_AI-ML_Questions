@@ -1,0 +1,1 @@
+Do we increase the size of filter when it is applied on a larger area?

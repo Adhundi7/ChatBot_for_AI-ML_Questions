@@ -1,0 +1,1 @@
+At a time, it is only getting one image. At that time it will ask, whether it is a real face or not. Stopping depends on us. If the picture looks good enough, we can ask it to stop. 

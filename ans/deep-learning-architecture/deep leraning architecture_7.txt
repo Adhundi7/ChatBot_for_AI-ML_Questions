@@ -1,0 +1,1 @@
+Each channel covers the entire image but it is only looking for one feature in it.

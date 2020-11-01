@@ -1,0 +1,2 @@
+Is the same job done by each filter? What is the difference between filters? Should we control the number of filters or channels? If each channel corresponds to feature, we have three features but the iteration map is 1. Why only one? 
+

@@ -1,0 +1,6 @@
+In case of single derivative, how can we know we have reached
+the lowest minimal ?
+
+Cont..
+
+Is there a way to find best global minimum using mathematically ( i.e. calculus)

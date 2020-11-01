@@ -1,0 +1,11 @@
+Yes, for simple image recognition task 
+you can use but if I have large image 
+and i want to recognize multiple objects 
+that is a problem first we need to detect 
+where the objects are and for each 
+individual object we do a recognition 
+and the recognition part what we are 
+talking about typically there is a detection
+followed by recognition it allows you 
+to do multiple detections and for that 
+you have to do recognition

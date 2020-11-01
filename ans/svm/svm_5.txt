@@ -1,0 +1,2 @@
+One way of comparing the actual value and predicted value is by computing the difference. 
+Other way of finding similarity is by multiplication especially when we are considering sign.

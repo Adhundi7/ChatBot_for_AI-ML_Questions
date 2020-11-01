@@ -1,0 +1,1 @@
+Instead of using unigrams, if we use trigrams or n-grams for training the machine, will it be easy for the machine when that sequence comes and will the processing time be low? If I want to rate my algorithm, using unigram it’s better or using n-grams?

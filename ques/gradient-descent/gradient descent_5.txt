@@ -1,0 +1,6 @@
+We have taken a random point and reached a local minimum. 
+If we take another random point does it result in different local minimum.
+
+Cont...
+
+Is there a way to find a global manima ?

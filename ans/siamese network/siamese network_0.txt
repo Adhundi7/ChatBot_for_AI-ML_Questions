@@ -1,0 +1,1 @@
+If you trainn with large set of such variations then it would learn.

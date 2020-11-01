@@ -1,0 +1,1 @@
+Is the distance calculated from point or for point ?

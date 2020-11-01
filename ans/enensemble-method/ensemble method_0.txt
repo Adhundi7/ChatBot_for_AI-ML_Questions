@@ -1,0 +1,5 @@
+The common thing to do here is if there N samples in original data then you pick N samples. This is sampling with replacement. Suppose there are 100 samples in original data, we take all 100 samples
+Cont..
+No. 2 class problem, with 100 samples. I have a basket with 2 colored balls red and blue. I want to sample hundred times from it, but every time a sample I note down the feature vector of the ball and put it back. Mix it, randomly would blindly pick another ball, look at it’s details and put it back into the mix, do this hundred times. You would expect that some of the samples might actually come back when I resample
+Cont..
+They are all linear classifiers but trained on multiple samplings.So first I do a hundred samples, I get a set on, which will I train a classifier, then I will repeat the process again to the hundred samples, each time you will get a slightly different classifier

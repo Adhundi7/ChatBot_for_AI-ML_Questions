@@ -1,0 +1,3 @@
+No need to change, they will still remain. Because as a end user I have only X and Y, my metrics need not changed. If accuracy as a metric I leave as accuracy, if precision is a metric then I leave as precision.
+Cont..
+No. for face detection, look at this you can have a multiple ways, you say either I can use eigen face as a feature extraction,  nearest neighbour as a classifier, Now remove eigen face and put deep face. So,this just gives you a powerful feature extraction technique for wide variety of tasks.

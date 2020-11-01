@@ -1,0 +1,12 @@
+If we have supervised model
+and the data if we have 
+symptoms we know the 
+diagnosis. We know the 
+predicted output.we have 
+patients records which differ 
+from the actual symptoms 
+records. We have both 
+supervised and unsupervised
+data. In this which one has to
+be taken as training data and
+how to segregate the data?

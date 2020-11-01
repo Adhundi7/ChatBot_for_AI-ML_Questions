@@ -1,0 +1,1 @@
+No, you overfit or underfit the training the data the result is that your generalization error can go up or down.okay In unseen future sample your error can go up or down.

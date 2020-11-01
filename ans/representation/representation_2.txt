@@ -1,0 +1,3 @@
+Do you mean the time aspect.
+Cont...
+All of them get absorbed into x. For example, if I am classifying whether a fruit is apple or orange, I will also add GPS coordinate, they are also useful cues to make the decision. Your x is a superset of everything that you can capture. Weather goes in, temperature goes in. If there is some relationship to the problem keep it into x at the moment. 

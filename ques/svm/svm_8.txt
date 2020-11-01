@@ -1,0 +1,1 @@
+In svm algorithm what is the weight function?

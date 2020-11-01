@@ -1,0 +1,11 @@
+How we will  choose kernel is it based on similarity?
+cont..
+We were talking about disjoint classifiers and overlapping classifiers,
+this does not have an effect on kernels?
+cont..
+Example for overlaping classifier?
+Cont..
+If we have to classify male and female classes as 
+they are overlapping how do we handle this? Do we reject the overlapping part?
+Cont..
+

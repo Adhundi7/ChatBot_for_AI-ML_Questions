@@ -1,0 +1,4 @@
+Can we check  position or index of the words in given sentence?
+cont...
+Can we  compare the index of the word from first sentence and the second sentence, 
+Is it correct way ?

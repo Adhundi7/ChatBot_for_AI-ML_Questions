@@ -1,0 +1,10 @@
+You can think in that way, but the convolutions 
+run in one direction other direction is typically full. 
+Cont...
+For computer it is just signal, it doesn’t matter 
+whether it is image or it is speech. You are taking 
+information from one locality, in the case of image 
+define the locality as spacial, in case of speech 
+it is just temporary. I take a word and that’s where 
+one sound comes out. 
+

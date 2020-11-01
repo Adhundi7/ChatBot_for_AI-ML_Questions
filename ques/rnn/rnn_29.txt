@@ -1,0 +1,1 @@
+Why are other things in the RNN architecture is not used except h0,h1 for predicting h2?

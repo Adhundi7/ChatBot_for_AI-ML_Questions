@@ -1,0 +1,1 @@
+If the network is over parameterized is there any danger? Is this danger from increasing the number of neurons in the hidden layer or increasing the number of hidden layers ?

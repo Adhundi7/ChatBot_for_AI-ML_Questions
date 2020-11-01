@@ -1,0 +1,1 @@
+Suppose we have two sources where we have image realted information in one source and text related information in another source.

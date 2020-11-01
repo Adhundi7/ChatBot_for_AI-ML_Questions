@@ -1,0 +1,1 @@
+To land up is there any probabilistic way to initialize the highest point ?

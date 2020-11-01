@@ -1,0 +1,1 @@
+Suppose there are two minima, first local minima and a global minima instead of reaching to local minima it will reach global minima with moementum contd..

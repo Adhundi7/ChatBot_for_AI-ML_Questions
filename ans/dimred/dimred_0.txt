@@ -1,0 +1,3 @@
+Everything cannot be compressed. If all the points were on this 2D plane, this is not going to work. Only works when there is a linear structure. We think we have two independent features height and weight, but they are not really independent. Since they are independent only this is working, you are able to find a new subplane. If they are spread over and you do compression you lose a lot of information.
+Cont...
+This is not that line. 

@@ -1,0 +1,1 @@
+You can use your favorite functions. Most people use these functions because their implementations are readily available by a library. You can also have new functions defined according to you. 

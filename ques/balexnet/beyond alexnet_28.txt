@@ -1,0 +1,1 @@
+Can we find celebrities closer to this GAN generated images from celebrities?

@@ -1,0 +1,1 @@
+You have shown MLP diagram. What is the difference when comes to RNN?

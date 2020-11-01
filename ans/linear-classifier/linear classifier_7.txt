@@ -1,0 +1,4 @@
+if the loss function that we just described all three lines losses are
+ zero. So that is why gradient descent with this kind of loss
+ function will come and stop at some line in between.
+ Once  the loss reaches to zero, it can't go down any further. 

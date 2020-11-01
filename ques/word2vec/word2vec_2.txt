@@ -1,0 +1,5 @@
+Practically If we have a large sentence and we remove 
+the stop words.Then pattern will not be same the way we listed.
+For example you said “combated” will not occur in the same vector 
+as with the “struggled”. So, “struggled” may occur at the 5th or 6th 
+or may not be at the end of the sentence then how can we deal with this issue ?

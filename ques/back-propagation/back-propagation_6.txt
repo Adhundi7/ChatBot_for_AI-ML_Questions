@@ -1,0 +1,1 @@
+In this we have dL/dW, the change in value of L is with respect to the change in value of W. What is the change occurs in W ?

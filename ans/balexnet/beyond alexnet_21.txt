@@ -1,0 +1,22 @@
+The general design guidelines people have realized 
+is that small filter size is good enough to get large 
+receptive fields but they also have added advantage 
+that the number of weights come down and it learns 
+better. One successful story for the deep nets is the 
+sketch recognition I draw something  can i recognize 
+what you draw simple sketches not artistic you draw 
+a car with 2 wheels box around it’s body can I 
+recognize is car this is where sketch recognition in 
+deep nets works at some point overtooks human 
+performance. Humans could not able to classify as 
+accurate as deep net in that particular case it has 
+11x11 filters. Then 5x5 and 3x3 and all. Inone 
+particular case they have shown that seems to work 
+well. Probably in sketch most of the places are just 
+blank you only have lines once in a while initially 
+they had a huge filter to capture at least some lines
+in the filter. In general smaller size of filter can do 
+better job than a larger number of filters. If i have 
+budget of number of parameters that I have to fit 
+in to my memory I would have rather gone with 
+smaller number of filters and the number of layers. 

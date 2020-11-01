@@ -1,0 +1,1 @@
+How do we deal with growing data? If the new training data’s behaviour is different from the previous data with which the model is already trained? If we are not storing the (previous) training data (reference to previous question) how do we manage the above?

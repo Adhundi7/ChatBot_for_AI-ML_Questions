@@ -1,0 +1,1 @@
+Not nothing to do with. We will see later that in the face image, in PCA 100 numbers can represent it. Deep learning will say represent with 2000 dimensions.What you get is a overparameterized representation, but you get far superior.

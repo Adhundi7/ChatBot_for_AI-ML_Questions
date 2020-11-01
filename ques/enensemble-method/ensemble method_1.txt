@@ -1,0 +1,1 @@
+Is there a circularity in the concept that you are fitting a line(classifier) and assigning some weightage to the classifier and at some point of time it will trace back the same line?

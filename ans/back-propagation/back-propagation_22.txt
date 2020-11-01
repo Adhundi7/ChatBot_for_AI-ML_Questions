@@ -1,0 +1,1 @@
+ Well, if you directly start at the saddle point. You can’t help. Because you start from a saddle point. The gradient is zero. You get stuck there. But if you are coming from anywhere else, it is highly likely that you escape the saddle point if you have momentum added.

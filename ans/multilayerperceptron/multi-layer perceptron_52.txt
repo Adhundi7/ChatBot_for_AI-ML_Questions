@@ -1,0 +1,7 @@
+We will adjust all the weights until it becomes zero.
+
+Cont..
+
+They are no eliminating at all, we are adjusting. If you want you can do it after
+the network completely built.
+

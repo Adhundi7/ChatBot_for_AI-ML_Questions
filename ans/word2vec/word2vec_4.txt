@@ -1,0 +1,6 @@
+For example “not” is a stop word. In general certain words are “not”, the stop for 
+this might be different from stop words for document classification. So, you can 
+even deal with this stop words. If you are dealing sufficiently large window you 
+can include stop words also it doesn’t matter, it will capture enough context. The 
+problem is if you want small window then stop words would become context, that 
+would becomes a problem. Otherwise you can deal with stop words.

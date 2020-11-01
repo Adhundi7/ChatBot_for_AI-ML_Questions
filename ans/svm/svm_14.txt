@@ -1,0 +1,2 @@
+Typically, RBF kernel is frequently used. If your x and y take very large or very small values then you would not want to take RBF. If x and y are small you could take a polynomial 
+function, then only size of output will be sufficient. It depends on what your feature vectors are. You will look at similar problems and decide or take RBF.

@@ -1,0 +1,1 @@
+You said, GAN is unsupervised but you are indirectly giving the labels.

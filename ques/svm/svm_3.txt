@@ -1,0 +1,5 @@
+What is the condition for blue points and red points in svm Formulation
+Cont..
+Ho we will calculate loss in SVM Formulation
+Cont..
+What is actual and computed value?

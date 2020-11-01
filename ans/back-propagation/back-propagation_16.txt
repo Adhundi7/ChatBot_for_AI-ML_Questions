@@ -1,0 +1,2 @@
+No. You take fifty batch of samples then forward pass, compute loss and adjust the weights once. Then again take another fifty samples repeat the same process do forward pass, compute loss and adjust weights once, you do this multiple times.
+Loss increases or decreases is a different. No problem if the loss is increases. If the sampling was so good that every fifty will be same. So the second batch the loss could be. That is why the graph I told you will have zigzags. If I am using same fifty at every time the graph will be so clean. 

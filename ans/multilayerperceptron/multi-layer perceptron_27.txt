@@ -1,0 +1,5 @@
+We typically give height and weight to the system, instead of that we can tweak by
+adding height square,weight square, height * weight, height dvided by weight, using 
+them we can create some non-linear features. so I had only two features measured
+height and weight but I created some 10 features out of them by just using some 
+of the arbitary functions.

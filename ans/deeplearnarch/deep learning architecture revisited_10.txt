@@ -1,0 +1,1 @@
+Yes. Here, a fully connected layer will make far more sense.

@@ -1,0 +1,1 @@
+If you are going to draw linear boundaries like this isn't this almost like a decision tree(RF)?

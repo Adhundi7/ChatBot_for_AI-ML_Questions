@@ -1,0 +1,1 @@
+Gradient were not enough to reach the end. After error is calculated and BP, gradients became small. In chain rule, gradient is a product of things, so these are so small.

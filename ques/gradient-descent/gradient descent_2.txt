@@ -1,0 +1,2 @@
+Generally we take a range to find the minima. 
+Can we take a double derivative of that range to find the minimum / minima.

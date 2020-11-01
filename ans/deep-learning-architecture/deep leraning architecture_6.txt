@@ -1,0 +1,1 @@
+Each filter will produce a separate hidden channel. The hidden layer contains multiple channels and the channels contain nodes inside them.

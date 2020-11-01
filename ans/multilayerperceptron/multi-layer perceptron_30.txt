@@ -1,0 +1,10 @@
+No, We perform feature reduction, this is the opposite 
+of dimension reduction. Actually we are doing 
+dimensionality exposure. So we can reduce its right 
+the hope in that thing, the two dimension things were 
+not nicely separable. For example, if you have a set of 
+data which is not linearly separable but xy cartesian 
+correlate. So if you are able to transform the problem 
+which is not very nice like a linearly separable, from on
+e feature space to the other will become a linearly 
+separable in this case.

@@ -1,0 +1,8 @@
+For blue points the condition is WTXi + b >= 1, the condition for red points is WTXi + b <= 1. 
+If you multiply this with yi we get condition for both yi( WTXi + b)
+Cont..
+One way to do loss is we have a function called lagrange. The loss is going to be
+½WTW - ∑𝛼i(yi( WTXi + b) - 1). 
+Actual value is yi. Computed value is WTXi + b. The sign of this is going to be the output of the linear classifier.
+If yi is different from WTXi + b , then the yi( WTXi + b) is 
+negative.Then loss function will be more. If we have to minimize the signs of  yi and WTXi + b is the same. 

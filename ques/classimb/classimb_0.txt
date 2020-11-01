@@ -1,0 +1,5 @@
+If my training accuracy is increasing and validation
+ accuracy is decreasing I call it as overfitting. In similar 
+sense if we have good accuracy on test data but it 
+doesn’t perform well on real world data do can I
+ call it overfitting?

@@ -1,0 +1,1 @@
+Yes, such networks are prone to memorization. So, we will avoid it while training. With minimal network it is very difficult to learn. So, with many neurons you can learn but that many may not be required.

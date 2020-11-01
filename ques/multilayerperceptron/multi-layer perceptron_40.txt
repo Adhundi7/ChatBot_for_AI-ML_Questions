@@ -1,0 +1,7 @@
+What would be output and relationship, if I change the 
+input data which is related to the previous input?
+
+Cont..
+
+How granular you will go if you know what kind of a 
+relationship exists within the given input.

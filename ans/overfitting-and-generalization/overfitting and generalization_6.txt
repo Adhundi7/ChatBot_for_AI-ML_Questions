@@ -1,0 +1,5 @@
+Yes, we will see multiple examples of doing that. So adding noise is one possible thing that we will see.
+Cont..
+No, this may not contain noise.this might be a parabola for example or a quadratic way.
+Cont..
+No, because you only have sample over here. So you have example these samples ok, there is no absolutely noise in it. But, when you try to fitten with this one .okay what we are saying is that it can fitted with lower degree polynomial also.polynomial there may be multiple polynomial that would fit it and higher degree polynomial would create this artifacts. Whereas lower degree polynomial depends on fitting function. Of course if you have good fitting function this shouldn’t happen without noise that is true.

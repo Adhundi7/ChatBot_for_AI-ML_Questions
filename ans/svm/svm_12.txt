@@ -1,0 +1,4 @@
+W is the learnable parameter of the network. Once you learn a W in convex optimization you don’t change it. Kernel calculates similarity between input points. What is the nearest point in the dataset to a 
+particular point. That is learned by the kernel. One way is to perform dot product, but that won’t make the data linearly separable. For that you would need a complicated kernel like neural network. You will 
+do backpropagation and learn the kernel, fix that, then find weights by SVM. Nicely combine previous techniques and SVM. Previous techniques won’t have best solution or anything, but in SVM you will. 
+

@@ -1,0 +1,1 @@
+When I give my dictionary of words, total Wikipedia, RNN is doing the same thing?

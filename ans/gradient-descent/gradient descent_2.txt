@@ -1,0 +1,9 @@
+Yes and No. If we have a quadratic function, the easiest one is 
+take the second derivative to zero directly, we can solve for it and 
+there are many solutions of that nature. Many times it is difficult 
+to find the second derivative that could be one reason. 
+So, gradient descent is very generic procedure. It will be applied 
+to whole bunch of stuff. First derivatives are usually easier to
+ find whereas second derivatives used to find the bases local 
+of that. But that will not be the local of the real function will
+ be local of an approximate parabola fit over there. 

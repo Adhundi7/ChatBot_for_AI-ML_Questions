@@ -1,0 +1,1 @@
+Only words that are consequent, one after the other. In the sequence, i and i-1. So, you increment the count only if word j has occurred immediately after i. Though there are different other methods

@@ -1,0 +1,1 @@
+When dimensions can explode, do number of neurons have nothing to do with dimensions?

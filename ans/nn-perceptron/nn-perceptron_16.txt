@@ -1,0 +1,1 @@
+Suppose if you want to build a face recognition system to your organization,you say our organization has 50 people and I can get 10 autographs of each everybody. So, only 500 images. But to train a deep Neural Networks I need billion of images. Where will I get it? There is a public dataset of images, there is a trained model of face recogntion, you download it. 

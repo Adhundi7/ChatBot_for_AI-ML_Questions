@@ -1,0 +1,4 @@
+In the convolutional layers the idea is to 
+keep the filter size as small as possible 
+because we haven't seen the filter size 
+as 7x7 or 8x8? 

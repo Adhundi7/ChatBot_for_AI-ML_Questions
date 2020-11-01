@@ -1,0 +1,1 @@
+Dictionary elements are features of speeches that we measure. If we want to consider them as individual features then they are words that you have in the dictionary.

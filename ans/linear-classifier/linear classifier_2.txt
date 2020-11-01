@@ -1,0 +1,12 @@
+Yes, we typically converts the non-linear problem into linear 
+problem and solve it.
+
+Cont...
+
+The idea behind kernels is,  suppose we have two set of samples 
+were we can draw a curve to separate them, mathematically we 
+can say that take the space and turn the space around so that
+ separator become a line. If we know how to learn a line later on, 
+we learned how to twist the space. That's what is called this fancy
+ word called kernel. Basically it's just questing the space or 
+warping the space.

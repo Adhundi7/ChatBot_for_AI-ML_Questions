@@ -1,0 +1,1 @@
+Can siamese network also tell why it is calling as two different positions?

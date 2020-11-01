@@ -1,0 +1,1 @@
+Does the change in brightness in the image affect in image retrieval?

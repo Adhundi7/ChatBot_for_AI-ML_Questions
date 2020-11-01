@@ -1,0 +1,1 @@
+Why the same weights in RNN?

@@ -1,0 +1,1 @@
+You get softmax probability depending on the vocabulary you have trained.

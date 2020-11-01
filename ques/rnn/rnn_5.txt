@@ -1,0 +1,1 @@
+How RNN is different from CBOW? Is that are we speaking in terms of accuracy and predictions? You are saying is more dominant than CBOW?

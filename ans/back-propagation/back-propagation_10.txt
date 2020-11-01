@@ -1,0 +1,2 @@
+Do a forward pass for all samples, calculate loss and come back and change all learnable parameters.
+No, all will be updated.

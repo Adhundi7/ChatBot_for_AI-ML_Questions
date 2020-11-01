@@ -1,0 +1,1 @@
+Usually the classifiers are computationally efficient. That's true. Need not necessarily be. But weak classifiers only means it performs slightly better than random. But usually the reason why you would do this kind of stuff is because each one is very light to compute.

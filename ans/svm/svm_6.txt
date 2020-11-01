@@ -1,0 +1,1 @@
+Using lagrange multipliers you will find the actual constants 𝛼i.It’s important for balancing out all these things. 

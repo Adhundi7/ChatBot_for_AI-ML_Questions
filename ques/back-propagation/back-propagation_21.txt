@@ -1,0 +1,1 @@
+I have a question about Gradient Descent. It will say to move in that direction where the gradient is decreasing. But that might be local minima.

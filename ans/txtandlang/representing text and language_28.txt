@@ -1,0 +1,1 @@
+No. About comma I should have been very specific and said “means” occurs most commonly with a “,” and the word most commonly occurring with “means,” will not be the same if comma is removed. Tokenization should not be considered a preprocessing step. It has significant value on how well we will be able to learn. Practically, they should have been separated.

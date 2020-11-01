@@ -1,0 +1,1 @@
+Do we have any standard technique to find k?

@@ -1,0 +1,6 @@
+This is a character level modelling you are modelling the language each character at a time. So here single 
+character goes in and outcomes the next character.
+Cont...
+It predicts only ‘o’ because it has already remembered hell in the cell state. In cell state it remembers hel 
+next one ‘l’ comes out as input and ‘o’ goes out as output. So all the previous memory is encompassed in to 
+a single cell state the current state is take and the next state is predicted.

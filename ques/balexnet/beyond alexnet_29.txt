@@ -1,0 +1,1 @@
+ The GAN generator generated this right? Did the GAN discriminator not find it?

@@ -1,0 +1,11 @@
+It has been used multiple times during training but 
+when the data is playing the role of the test data,
+ that model that was trained didn’t see that we have 
+a problem of memory. Because it is a machine if I 
+randomly initialize all the samples it will forget 
+everything. With human being this is difficult you 
+can’t do this because you can’t perfectly forget. 
+Here I will take a model and initialize the samples
+ randomly it is a fresh slate. So everytime it is a
+ fresh algorithm it will start from scratch but still 
+It might be overfitting during the training process.

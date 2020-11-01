@@ -1,0 +1,1 @@
+Yes, features can overlap. Here, we are not doing sampling on data. We are sampling on features.

@@ -1,0 +1,1 @@
+Does all the weights defined are on critical path

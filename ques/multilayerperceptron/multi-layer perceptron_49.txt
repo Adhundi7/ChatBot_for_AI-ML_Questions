@@ -1,0 +1,3 @@
+ When you talked about Neural Networks here, 
+you described it is 4by3 matrix but if you reading from
+ two should it takes 3by4 matrix ?

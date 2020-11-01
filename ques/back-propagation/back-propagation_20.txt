@@ -1,0 +1,1 @@
+We looked into momentum, how does that relate to regularization?

@@ -1,0 +1,3 @@
+There are two types of multi-class classifications. One is that classes data is disjoint, other is that they are intersecting. When classes are intersecting we can still use this. 
+Suppose two classes are mammal and human. We have separate linear classifiers for mammal and human. Train separate classifier for each class. It’s not a combined training 
+like your MLP

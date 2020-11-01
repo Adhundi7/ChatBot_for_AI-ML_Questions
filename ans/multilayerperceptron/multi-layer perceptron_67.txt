@@ -1,0 +1,5 @@
+Yes. It is second derivative, like Hessians.
+Cont..
+Second derivative starts assuming that there is a little more shape to the surface. So if you look at any point now, we are assuming a tangent and moving on that tangent. Second derivatives assume quadratics. It brings it much more faster to converge. Second derivative methods typically people have shown that it converges faster in fewer iterations. But each iteration will take more memory and more time. So it doesn't practically become attractive. 
+Cont..
+No

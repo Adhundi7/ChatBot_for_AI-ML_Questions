@@ -1,0 +1,1 @@
+Does the image size 3 correspond to RGB values. When RGB layer gets reduced to 1 in activation layer, do filters average out the 3 channels. What is the work of each filter?

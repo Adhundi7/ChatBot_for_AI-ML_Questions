@@ -1,0 +1,3 @@
+Is it possible to deliberately introduce noise into data without loss of accuracy?
+Points containing noise if if we come up with a complex function that cleans noise, then is the data very good and accurate? 
+If noisy data is cleaned and does not contain noise anymore, but still requires a complex curve to fit it, is it still overfitting?

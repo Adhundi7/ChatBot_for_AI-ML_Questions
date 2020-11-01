@@ -1,0 +1,10 @@
+When we only have the 
+training data, how can we 
+make sure that our 
+performance is good on 
+test data?
+Cont..
+How do we perform well on 
+unseen data in future. What 
+are the techiques to do this is 
+what we are going to learn?

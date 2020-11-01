@@ -1,0 +1,1 @@
+Yes, kNN is not a learning algorithm. It just calculates the distance from every data point. kNN doesn't have any training phase, it computes every time.

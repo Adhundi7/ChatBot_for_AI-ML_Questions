@@ -1,0 +1,3 @@
+These are ruling models. We saw MLP and BP. With no big change a very different problem is addressed by this. Our performances are equally good.
+Cont..
+Not fully. these classical models look at the problem not in the way of, for ex, in ML the primary objective is that the model should work well in the future i.e generalization. This is not used in arma models

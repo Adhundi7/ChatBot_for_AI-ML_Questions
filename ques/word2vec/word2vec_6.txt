@@ -1,0 +1,3 @@
+In corpus one of the crucial part in which the words are grouped together.
+ Where the dimensions is also matter? cont.. If corpus remains same and dimensionality of analysis is different . 
+Then is there a different way of grouping together? cont.. How to identify which dimension is good ?

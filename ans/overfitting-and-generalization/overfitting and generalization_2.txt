@@ -1,0 +1,3 @@
+Good, that’s what we are coming towards. So in our training data we talk about what level of generalization we want.
+Cont..
+Yes, so we don’t want. If you have couple of examples we will get to this thing also. I had only given you like saying that in this case do this, in this case do that. You can memorize. Memorize the solution of the one. And you will not generalize your problem solving skills and you want to do that. One way to do this is one way to generalize it that is give lot of examples. The more no.of training samples you give there is less chance of overfitting.

@@ -1,0 +1,1 @@
+So initially the whole idea behind backpropagation is to find the optimal weights. We find the new weights. Then we moved to the chain rule of finding dL/dX. Why did we move from dL/dW to dL/dX?

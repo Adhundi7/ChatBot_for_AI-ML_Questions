@@ -1,0 +1,8 @@
+How to choose error function?
+If I got a square loss and come 
+out with the model that does not 
+perform well and suddenly 
+changed my error function then 
+the model performs well. Shall 
+I keep switching my error 
+function?

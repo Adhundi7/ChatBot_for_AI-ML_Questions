@@ -1,0 +1,4 @@
+Suppose we don’t have any initial values for w1,w2,w3, we assume those 
+values and we start with them and got some values using them. 
+We want to reduce the loss. In which direction we should changes the 
+values of w1,w2,w3. 

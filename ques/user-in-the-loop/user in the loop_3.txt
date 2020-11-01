@@ -1,0 +1,1 @@
+In the Users in the ML systems slide what kind of classifier is that? We know 0 and 1 whether to accept or reject but you are saying another classifier which is not sure of. So, how do we make that kind of classifier?

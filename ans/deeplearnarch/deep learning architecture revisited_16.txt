@@ -1,0 +1,1 @@
+One of techniques to tackle these kind of problems is that people use visualization problem. There is whole class of mechanisms called attention mechanisms

@@ -1,0 +1,3 @@
+Processing time may not improve much, because you need to read everything anyway, but it can implicitly capture meaning far better than unigrams. Bag Of Words was basically unigram histogram. Unigram is not just used for histogram, there are other uses also. If we are talking about probabilistic representations we will use n-grams.
+Cont..
+We cannot say. Only when one performs better than the other we will be able to see.

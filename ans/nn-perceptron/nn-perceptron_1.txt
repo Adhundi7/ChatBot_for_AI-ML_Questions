@@ -1,0 +1,10 @@
+Suppose size of the W matrix is 4x3, how do you get three because there are three inputs and how do you get four because next layer has four of them.
+Cont..
+Not too much. Usually it’s not dependent on that matrix. It is your choice of the architecture.
+Cont..
+It is not size of W, it is a size of number of neurons in the hidden layer. Usually it comes infinity. General thumb rule is for a multiple layer perceptron the way for you to look at this your input is three you may go to 5 or 6 or 7. So, the performance of the solution with 5 or 6 or 7 need not change too much. These are some neurons even if it goes bad, you still recover because there is a good amount of redundancy is maintained and that redundancy makes possible to learn.
+Cont..
+You have lot of neurons which will improves the complexity of this function.
+
+
+

@@ -1,0 +1,1 @@
+They are just dummies, assumed words. It allows a computational completeness in your model. You need to predict a word based on 3 previous words. For the 1st 2nd and 3rd word you cannot do this, so for the sake of completeness you need to do this.

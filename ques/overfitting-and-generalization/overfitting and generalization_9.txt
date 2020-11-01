@@ -1,0 +1,1 @@
+During training we only have train data. We don't know what kind of data will the model face in the future? So how do know if the model is optimal or underfitting or overfitting?

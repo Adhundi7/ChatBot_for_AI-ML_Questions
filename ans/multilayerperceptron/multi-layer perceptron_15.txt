@@ -1,0 +1,1 @@
+That we know already, this is representing wx(w transpose x). 

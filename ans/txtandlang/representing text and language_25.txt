@@ -1,0 +1,5 @@
+The sequence could be “The horse bought the boy”, it’s a ridiculous sentence but it makes sense.
+Cont..
+It doesn’t matter. What does matter is the reliability of the count, the informative content let's say that. What matters is the model, the probability table  which is a 1-D array of size equal to your vocabulary. For that 1-D array, it is populated with the unigram probabilities. This probability table is the model of the language. 
+My question then is, I have a model in hand, how informative about the language is this model, whether the sentence belongs to the language or not?. “A boy bought a chocolate”, “A chocolate bought a boy”, still equally likely. We are not looking for semantics here. Subject verb object is still there. “Bought the boy a chocolate”, the values would still be the same. It is not actually giving me any information about the sentence itself, it is just giving the same number all the time.
+

@@ -1,0 +1,1 @@
+What are we trying to do here? How to visualize the data as shown to a human? As the lecture progresses I feel like the visualization is a kind of PCA  we are putting into dimensionality reduction and it is getting clear for me? I am able to understand the data but I am unable to understand what it is conveying.

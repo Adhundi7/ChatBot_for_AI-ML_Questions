@@ -1,0 +1,1 @@
+If all the points are lying on the same plane there is a correlation between x1 and x2. We replace all x1 data points with x2 or we just replace x1 with some weightage of x2? Why to reduce? Difference between Dimensionality Reduction and Correlation?

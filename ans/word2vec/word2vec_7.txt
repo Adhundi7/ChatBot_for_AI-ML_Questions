@@ -1,0 +1,3 @@
+Currently we are learning one language here. 
+We are not learning how to map one language to another. 
+So, this kind of mapping will learnt later.

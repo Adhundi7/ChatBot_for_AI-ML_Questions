@@ -1,0 +1,7 @@
+The correct classification means loss equal to zero. Then the loss 
+for all the three lines used to classify the data becomes zero. 
+So we can’t even be able to differentiate between all three lines
+ and that is precisely the problem with a simple gradient based 
+algorithms.SVM will have a different loss function in which will 
+not be satisfied. Just by correctly classifying it has to still push
+ to get to the black and that is not a trivial thing to do. 

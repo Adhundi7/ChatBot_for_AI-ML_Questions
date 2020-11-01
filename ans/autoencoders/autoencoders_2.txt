@@ -1,0 +1,5 @@
+Denoising is directly for denoising when I have noisy data and I want to cleanup how do I do that if I 
+have large example of cleaned data I will artificially introduce noise and make the network to clean and 
+then later on when I get only noisy data I will send the noisy data and outputs the cleaned data. Denoising 
+comes under compression in any other way in which your data get corrupted and you want to uncorrupt or
+ clean it you can use it not only for images you can use it for text.

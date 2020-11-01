@@ -1,0 +1,1 @@
+You can choose to take dot product or difference. RBF is exponent of difference. These are various ways of expressing similarity between inputs. Cosine similarity is the dot product.

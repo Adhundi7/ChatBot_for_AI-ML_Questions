@@ -1,0 +1,4 @@
+Is channel the output of a filter? when to 
+apply to get 3 channels corresponding to 
+RGB? Does Telnet, alexnet, googlenet 
+are for Image processing? 

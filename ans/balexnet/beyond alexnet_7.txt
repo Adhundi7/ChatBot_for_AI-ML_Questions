@@ -1,0 +1,1 @@
+Input is a noise. Input is a random number. Weights are being learned

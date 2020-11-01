@@ -1,0 +1,1 @@
+How important are interrelated words in Bag of Words? So the weightage is purely on a word alone?

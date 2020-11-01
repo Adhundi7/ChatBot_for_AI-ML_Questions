@@ -1,0 +1,7 @@
+Usually when we use kernel SV, we don't even specify 
+how to compute the features, we just use some 
+nonlinear functions and live it like we just define 
+something. 
+There are some few popular functions like rbf kernel. 
+If we use rbf kernel most of the problem becomes 
+much simpler.

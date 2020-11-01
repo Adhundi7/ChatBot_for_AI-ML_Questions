@@ -1,0 +1,1 @@
+Are we going to cover in this course, how to create a proper dataset ; amount of data needed to create it? ; noise reduction of data?

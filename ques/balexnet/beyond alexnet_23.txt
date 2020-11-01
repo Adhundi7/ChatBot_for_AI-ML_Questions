@@ -1,0 +1,3 @@
+Do we model residual learning as a layer
+how it is done or how the connection is
+made?

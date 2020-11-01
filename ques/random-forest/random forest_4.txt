@@ -1,0 +1,1 @@
+Is there any useful information in the cut done randomly in clustering, better than taking weak classifier?In random cuts, the points still are seperated with same distance so they will be on same side of the line

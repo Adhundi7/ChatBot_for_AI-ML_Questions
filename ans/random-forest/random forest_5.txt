@@ -1,0 +1,1 @@
+We started by saying that ensemble methods are for regression, if I combine weak predictors we get strong predictors. So, we can apply to any regression problem.

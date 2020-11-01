@@ -1,0 +1,1 @@
+Are the words considered for bag of words  literal words or implied synonyms? Like the verb or noun is considered?

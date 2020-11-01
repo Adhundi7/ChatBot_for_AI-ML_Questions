@@ -1,0 +1,1 @@
+I’m trying to see in agricultural industry. Say, if want to see whether it is a normal crop or a weed or not. Or a crop has a disease or not. How much of the learning should I reuse in the Alex net? Or I need to retrain the entire model.

@@ -1,0 +1,1 @@
+Why is the discriminator finding it difficult in this GAN example, because none of them exist anyway? When will discriminant know when to stop?

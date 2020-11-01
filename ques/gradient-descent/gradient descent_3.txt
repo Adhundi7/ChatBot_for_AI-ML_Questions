@@ -1,0 +1,9 @@
+When we descent we take different steps, those steps need not be of same 
+size. So, it can be a large step, the next step can be a small step. As we move 
+towards that of the local optima and reach the local optima. How the gradient
+ will decide that we have reached the local optima or By which indication it 
+knows that we should not move further ?
+
+Cont...
+
+This is for one 'w' what about other 'w's

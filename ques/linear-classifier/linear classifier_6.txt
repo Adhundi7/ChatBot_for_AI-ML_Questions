@@ -1,0 +1,1 @@
+Suppose we have three lines separating the data points.The loss would not be able to tell which line better differentiate between the lines.

@@ -1,0 +1,1 @@
+If there is a case where the weight is more than 350 and sphericity is less than 0.4 it is still categorized to be orange.

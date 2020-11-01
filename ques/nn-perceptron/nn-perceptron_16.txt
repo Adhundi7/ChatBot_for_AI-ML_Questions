@@ -1,0 +1,1 @@
+We are downloading the already public data and improvising on top of it, why can’t it be as we do the things in cloud and automatically improving the model by learning new data ?

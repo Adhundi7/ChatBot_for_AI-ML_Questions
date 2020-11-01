@@ -1,0 +1,2 @@
+This is your first one or this is your random initialization now what I need to do to get it only this quantity.
+Analytically I can compute.

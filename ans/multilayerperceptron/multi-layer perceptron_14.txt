@@ -1,0 +1,9 @@
+After learning the model some part of the Neural Networks is not active becuase 
+weights are small. you got a network in this case of matrix 4 * 4, assume the 
+elements in this matrix are small, you make all them zero and perform matrix multiplication
+you will get almost same output here. so we can remove some of neurons not  performed
+bad, effecting from a small set of weights  is a bad choice. To conncet with human
+brain, if you brain has redudant neurons to learn faster which we all have. redudant neuron
+that is why when some neurons get damaged, the neurons can take over and adjust the weights 
+little bit and still continue to the same task with the same performance. when the damage becomes more 
+critical then we cann't perform anything.

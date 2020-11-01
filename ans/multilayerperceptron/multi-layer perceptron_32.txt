@@ -1,0 +1,4 @@
+We will see about kernels when we are dealing with SVM.
+
+As of now you can think it as a polynomial map at this stage. What we are doing here is we 
+are mapping x1,x2 to x1,x2 squares, x1x2,x2,x1.

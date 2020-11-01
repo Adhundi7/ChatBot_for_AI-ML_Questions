@@ -1,0 +1,3 @@
+No. Here we are saying the sequence that we created a non-sequence data out of sequence data and created a neural network problem.
+Cont..
+Yes, In this case that is perfectly good. But in the case of word to word the proxy problem is not much of utility. Here our main goal itself is this. 

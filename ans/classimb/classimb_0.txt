@@ -1,0 +1,11 @@
+It is not overfitting in this case but it is more because 
+you have bias sampling of your data. The  dataset is 
+not indicative of the real world data if that is not the
+ case what you said would happen because of 2 reasons
+ one is when you have bias sampling of your data, 
+where you have one kind of data and real world has
+ other kind of data. Second might be your test set is 
+too small that you can get is artificially low or high
+ number because the size of test is too small. If it
+ performs well on test data it should perform well 
+on real world data if you have proper sampling it should. 

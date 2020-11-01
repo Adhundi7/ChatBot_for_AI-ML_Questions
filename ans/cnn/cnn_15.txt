@@ -1,0 +1,17 @@
+At a time,  it is looking at the 5X5X3 and then it will be looking at the whole image.
+Cont..
+Yes.
+Cont..
+Because it is looking for something else. One is looking for vertical lines, the other is looking for horizontal lines. Each one is looking for a different thing or if you want a high level semantic like one is looking for eyes, other is looking for a nose, other are looking for mouth or hair. You can not do that for 3X3 we will dot it in a later stage. That's the idea. Each one is looking for a different feature. 
+Cont..
+These are all weights. When I said 0 101, I’m not gonna write this one. I’m gonna write w1, w2, w3, w4 there which will be learned by the network while training. 
+Cont..
+One is looking for the vertical line. Another is looking for the horizontal line. 
+Cont..
+ If I say there are 100 filters, why would it learn different things. That is only because of my objective function.  The objective function is to classify whether it is a cat or a dog. Now one filter is always saying that something is a vertical or not. The second filter saying the same thing doesn’t help it whereas if it can say something which is complementary then it will improve the error rate. For that reason, it will automatically go and converge at different things. We are not going to specify anything.The question was Why would learn different features in different filters? Why wouldn’t it end up learning the same thing in all filters? Because complementary information is better for the final error rate. Sometimes, if I specify the more number of filters than required, we will see that two filters are almost doing the same thing. That also happens. We typically over specify the number of filters to be safe. 
+Cont..
+Yes, we specify that. So, Alex decided that first is gonna be 96 and second is gonna be 256 and stuff like that. 
+Cont..
+It is our understanding that is true. So, this is what took 20years to figure out what works from LeNet to Alex network.LeNet took 20yeras to figure out, Alex took a couple of years to figure his stuff out. Now, what we end up doing is that if we have a problem which is similar to image classification, I pick a network which is already proven to be good for this purpose. Like AlexNet. Later on, there are many other things. One of them I will pick it and use it or modify it, tweak it from there. 
+Cont..
+A feature is something eyes, ears, nose, hair, lips those are features. The input we did not have features, we had raw values and we just had the RGB as three different channels. Because I can treat as the same way all across. So, remember this is the first step. In the next step, in the next layer, the filters are going to look at this one. It is going to do convolution over this. There it will be if I’m doing 5X5 then I will get 5X5X6 would be my filter size. Every filter is going to be looking at all the channels in the input together and then do convolution. 

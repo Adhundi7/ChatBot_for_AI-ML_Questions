@@ -1,0 +1,1 @@
+Eigenfaces are used to derive features that are based on intuitive understanding. What the point, we are trying to drive home is that if I use these kinds of things the representation that it learns would be far better than eigenfaces for the purpose of face recognition.

@@ -1,0 +1,1 @@
+Think of the example of knobs, how much I have to change the knob. There is a W matrix of which there is weight W11 , the sign of it will represent to left or right, either decrease or increase, the magnitude will tell you how much you should increase or decrease. So dL/dW is not like numerator or denominator it’s like a quantity.

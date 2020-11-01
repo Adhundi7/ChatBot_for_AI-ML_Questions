@@ -1,0 +1,2 @@
+In PCA we were reducing the dimensions which were in-turn dependent on the X, so does this mean we even arer reducing number of X (inputs)?
+Why are we introducing the redundancy and complicating the function which is the opposite of PCA?

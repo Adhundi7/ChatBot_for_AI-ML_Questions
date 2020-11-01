@@ -1,0 +1,1 @@
+What kind of loss function we will use here in GANs?

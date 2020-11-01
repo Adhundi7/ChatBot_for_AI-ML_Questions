@@ -1,0 +1,4 @@
+Not really. You can learn the kernel in some unsupervised way. Then, you can build a linear classifier using labelled data i.e supervised data which is a guaranteed best solution. We can combine these 
+techniques and kernels is a way of doing that. We mentioned some kernels, but there could also be some kernels which are neural networks. This is called embedding technique which you will learn in 
+further modules.
+

@@ -1,0 +1,1 @@
+Yes. We have separately to show that there maybe some blocks which do not have any learning. There are different blocks, you are connecting them to build a network.

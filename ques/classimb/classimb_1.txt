@@ -1,0 +1,5 @@
+While performing k-fold cross validation, 
+if we choose k value as 10 for every 
+iteration the model is trained for multiple 
+times. Does this problem is same as 
+memorizing?

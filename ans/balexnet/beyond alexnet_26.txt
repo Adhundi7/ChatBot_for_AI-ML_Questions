@@ -1,0 +1,1 @@
+It is a simple loss function. It is a two-class classifier loss function.

@@ -1,0 +1,1 @@
+We can’t argue in general sense, because while trying with different k we try choosing the best k, but based on this we cannot generalize it may be yes. In a case where we have 14 oranges and 6 apples and we use k value to be 20 always it returns it any entry to be orange which increase in error. Rather k having large value is not likely is acceptable.

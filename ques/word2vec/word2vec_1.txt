@@ -1,0 +1,7 @@
+In given sentences does surrounding words are in 
+the same tuples or in the different tuples ?
+
+cont..
+Let us see how actually we do it for two sentences?
+Sentence 1: Gandhi combated iniquity with nonviolence for liberty
+Sentence 2: Mahatma struggled against vice with ahimsa for freedom"

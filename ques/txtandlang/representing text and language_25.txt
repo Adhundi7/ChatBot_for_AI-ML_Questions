@@ -1,0 +1,1 @@
+Does the sequence of the words matter to the machine? Sequence could be different?

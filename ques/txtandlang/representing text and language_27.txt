@@ -1,0 +1,1 @@
+Should the sentence length be such that the quadrigrams can be formed?

@@ -1,0 +1,4 @@
+For every domain, this is industry driven. For machine translation for very high resource languages, language model is used for generation, if we are translating from French to English, you will have a English language model to check how well the translation is coming out. In those scenarios, there is huge data availability for English words, the n is 5 or 7.
+Cont..
+Indian languages allow lot of movement in structure.
+

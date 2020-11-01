@@ -1,0 +1,8 @@
+1. In a  real world scenario, how do you determine the
+ number of nodes versus hidden layer.
+
+2. Is there any thumb rule, which is used by machine 1
+learning expert to derive the architecture first.
+
+
+

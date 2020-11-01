@@ -1,0 +1,1 @@
+What are the inputs given to neural network for training encoded as?

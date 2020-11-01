@@ -1,0 +1,2 @@
+Does the output get affected when we remove some of 
+the neurons from the network

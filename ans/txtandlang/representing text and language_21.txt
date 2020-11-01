@@ -1,0 +1,3 @@
+We still don’t have a mechanism to deal with interrelated words. We still don’t know whether “missile” and “war” are interrelated to each other.
+Cont..
+Only that word. Assume that you are reading chinese, you are pattern matching. That is the level at which the machine learning is working.

@@ -1,0 +1,1 @@
+If I want one million real looking images, and ask GAN to do it. It will do it. This is one of the obvious use cases.

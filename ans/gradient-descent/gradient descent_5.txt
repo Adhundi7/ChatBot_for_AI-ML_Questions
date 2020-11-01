@@ -1,0 +1,17 @@
+ Yes, it is significantly different, if it's a single convex function,
+ then all we read is same. But if it's a generic function or  
+very complex function on a beyond quadratic function, then 
+we can get stuck in any of the local minima.
+
+Cont..
+
+Unfortunately not know. Form past Twenty years people 
+have been breaking their heads to do this. Now there are 
+some new results in deep learning which suggests that once 
+we get a deep learning  kind of models you will still get stuck 
+in local minima. First of all, it shows that in practice a number 
+of local minima are not so bad, that is one reason. The second 
+is that in case of deep learning, they had there have been 
+some results which suggest that getting stuck in local 
+minimized not so bad. 
+

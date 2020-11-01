@@ -1,0 +1,2 @@
+Why we are using SVM when we have other linear classifiers?
+ Can you explain with an example?

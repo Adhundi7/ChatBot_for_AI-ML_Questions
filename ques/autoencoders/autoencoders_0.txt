@@ -1,0 +1,4 @@
+What is a sparse autoencoder? Is it a 
+better representation to solve many
+ problems are suppose to be generic
+ feature learning.

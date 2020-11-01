@@ -1,0 +1,1 @@
+You are indirectly creating the labels. What I’m saying is that I don’t have labels, but create a kind proxy task to create labels. So, yeah training is yes, supervised. 

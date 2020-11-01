@@ -1,0 +1,1 @@
+Is it per cylce or is it per layer ? In this we have taken the batch fifty, fifty, fifty. So, first time we have taken batch fifty then we adjusted the loss and weight. In next time If I taken to the next batch the loss will increases or not ?

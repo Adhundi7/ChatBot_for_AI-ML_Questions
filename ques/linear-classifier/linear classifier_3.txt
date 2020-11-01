@@ -1,0 +1,8 @@
+Does ‘svm meant for linear separators’ 
+mean that we are using only linear separator 
+or if we are using any other separators, 
+we are trying to convert them into linear separator. 
+
+Cont…
+
+Does svm have some kernel type

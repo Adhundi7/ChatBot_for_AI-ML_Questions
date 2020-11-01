@@ -1,0 +1,15 @@
+It is not mandatory, but the way we will typically implement you remove some of
+ this edges or some of this connections. You may not get much advantage in the
+ memory these all are typically matrices. 
+
+Cont..
+
+It is much simpler to assume a simpler network and that is good enough.
+ we are going to get anything out of it. So removing one edge is not going to 
+give you two percentage extra performance or even point one percent extra 
+performance. If you assume storage complexity of one byte or few bytes 
+you are going to reduce here with this. It is very unlikely because you are storing 
+things as a matrix and matrix with one element missing storing doesn’t give you
+ any advantage, unless you remove lot of elements. So usually you don’t get 
+by all these.  They are not going to give you anything extra. It is usually 
+counter productive. 

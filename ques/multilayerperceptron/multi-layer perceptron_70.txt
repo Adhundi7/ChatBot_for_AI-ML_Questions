@@ -1,0 +1,1 @@
+As the algorithms keep coming and people keep publishing the papers will the capability for the machine to learn improve.Could you give an application of pca and word2vec?

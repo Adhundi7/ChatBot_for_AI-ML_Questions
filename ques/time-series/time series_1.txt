@@ -1,0 +1,1 @@
+Time series data can be seasonal / cyclic data also?

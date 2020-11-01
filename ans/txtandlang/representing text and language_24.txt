@@ -1,0 +1,1 @@
+If there is enough amount of data, bi tri starts performing better. That enough amount might be quite large.                                                                                 If we have small amounts of data, we cannot compute these histograms. 

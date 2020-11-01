@@ -1,0 +1,7 @@
+Polling in general reduces the size. Whether you 
+do max pooling nor average pooling at last pooling 
+in general reduces the size. There are also pooling 
+layers happening in between this it seems like 
+converging everything in to this when you connect 
+multiple layers there are also pooling layers in 
+between

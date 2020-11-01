@@ -1,0 +1,1 @@
+Yeah, but CBOW per se it is just statistical approach I would say. We are just looking and saying that after time this, this one came. That’s the only information you have.

@@ -1,0 +1,1 @@
+Is the same technique used in time series neural network the same as that we used in word2vec ?

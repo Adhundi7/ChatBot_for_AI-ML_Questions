@@ -1,0 +1,8 @@
+Here there are two issues: one is how come all sentences are five consecutive 
+words. So, typically you do is remove the stop words and take five consecutive 
+words weather they actually formed as a sentence or not is not a problem. But 
+you take a large amount of text, remove all the stop words and take consecutive 
+five words. If a particular word occurs in a particular context like “I walk through 
+the road”, “I walk through the lay” in these the sentences may be occured at two 
+different places at two different documents but since I have sentences that look 
+like road, lay all are similar things. 

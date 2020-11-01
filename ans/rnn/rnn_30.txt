@@ -1,0 +1,1 @@
+Here, weights are in matrices format. In matrices itself has so many values, it can adjust accordingly.

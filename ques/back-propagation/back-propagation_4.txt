@@ -1,0 +1,1 @@
+You are saying that there were some algorithms exists to initialize the w's right, suppose if we initialize the w then we have a better chance of landing on global minima or higher probability of learning on global minima ?

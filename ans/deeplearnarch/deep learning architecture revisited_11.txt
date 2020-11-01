@@ -1,0 +1,1 @@
+Not non image. You can do speech, you can do any kind of sequence data, language, any continous process you see, Xrays, MRI data, etc., Soething that has got locality significance in the data if that is the case then CNNs work.

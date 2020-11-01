@@ -1,0 +1,1 @@
+Can I generalise that most liklely that non-image peoblems can not be solved by CNNs?

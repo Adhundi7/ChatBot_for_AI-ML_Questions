@@ -1,0 +1,1 @@
+ht is a hidden layer, we don’t really know it’s correct or incorrect we can only judge if the output is incorrect or correct.

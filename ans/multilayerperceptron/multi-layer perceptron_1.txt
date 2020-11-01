@@ -1,0 +1,10 @@
+The both input size and output size is given to you.In between we have 
+three layers. The first one is slightly larger, the second is more slightly 
+larger and then reduce. So it is this level of induced is quite good enough. 
+I am saying beyond that the worry I don't know  is not required because 
+whatever the number that you pick twenty five instead of twenty three that 
+is not good change because Neural Networks are over parameterized means
+ that there are lot of extra neurons If you remove this the performance is 
+not decreases but the training becomes easier. But at the same time 
+there is a chance of over fitting, that is the reason you will not include
+ more and more extra neurons. 

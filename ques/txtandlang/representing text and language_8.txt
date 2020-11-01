@@ -1,0 +1,3 @@
+On the ground level, the first part as we discussed it is 90s model, we used to manually pick the data and provide it. How is it different from the statistics part?Cont..
+
+So in the other way around, when data increases we also evolve around the data and come up with a better model?

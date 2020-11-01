@@ -1,0 +1,1 @@
+There is no real way, the only way is to trial and error in the training phase which k gives you best answer just choose it.

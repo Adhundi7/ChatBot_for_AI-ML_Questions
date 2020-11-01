@@ -1,0 +1,1 @@
+Question about the problem statement: “Identify US president from his address. So, how to represent speech?”. What if there are  different writers for the same president?But what if there is a single writer for multiple presidents? Do we classify using style or speech?

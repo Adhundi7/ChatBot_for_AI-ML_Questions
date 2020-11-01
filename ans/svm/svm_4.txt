@@ -1,0 +1,4 @@
+It is called the regularizer most commonly. Suppose weight values are unbalanced. 
+One weight is 1000 and other is 1. Those lines you want to avoid. 
+Suppose we have a line (1000, 5000, 100) we divide this line by 1000 then (1, 5, 1/10). 
+We don’t want a explosion of weights. That is why we are minimizing WTW.

@@ -1,0 +1,6 @@
+It’s possible. These directions are approximate. So, when I say vector for queen is 
+equal to vector of king from vector of man and woman. It’s never perfect, what 
+you will do is take vector of king subtract from vector of man and add it to vector 
+of woman then you will get the vector and you will ask the question what is the 
+closest vector to that in the dictionary because these are the real numbers you 
+will never get the exact.

@@ -1,0 +1,10 @@
+Our goal is to estimate error rate. I want to know
+ what is the performance of the model. In this case
+ I have somehow figured out the parameters like no 
+of layers and neurons and these are fixed. Now I 
+have to figure out if I train this how well this will do. 
+By doing multiple rounds of training and testing and
+ taking average over them removing the risk of
+ particularly having them hard for my test data. 
+If you do training there is still an internal overfit
+ that is still there.

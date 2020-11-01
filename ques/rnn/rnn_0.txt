@@ -1,0 +1,1 @@
+Can CNN be used on text data as well?

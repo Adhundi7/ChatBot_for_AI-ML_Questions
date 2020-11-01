@@ -1,0 +1,1 @@
+A small locality or neighbourhood has meaning in iteself. Then convolution makes sense.

@@ -1,0 +1,1 @@
+In this situation, you will construct a network for getting image representation and another network for text represenation and concatenate both and run the classifier over that.

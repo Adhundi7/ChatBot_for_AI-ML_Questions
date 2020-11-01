@@ -1,0 +1,4 @@
+In industrial concepts I have data with fixed set of customers, fixed set of products, fixed set of production tools so why not use some bit of memory to make the system work perfectly. In a typical factory setup where i have set machine layout, set machine, set up type/ time e.t.c .  i am not going to expand that in next five years. So why not use the memorization? Why do you require a generalization?
+If industrial set up is not changing, then we can just use memorization, why do we need generalization?
+We are eliminating the concept of Generalization?(Industrial setup conveyor belt)
+When the noise levels are high probably that raises to quality issues and AI in terms of we are trying to minimize the noise levels.?

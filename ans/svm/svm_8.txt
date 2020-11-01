@@ -1,0 +1,4 @@
+The solution of SVM is going to be a weight function which looks like w = ∑yixi. If we substitute this value in the equation of line wTx = 0. One way to interpret this solution is for every x let’s find the neighbor 
+i.e maybe xi . Then xix is very high and we can assign the label yi to that xi. We want to do this for all the elements. Maybe we want to find the next nearest neighbor, we find the similarity between them and 
+sum them all up. Once we find the similarity between points we compute the linear Instead of performing xix we could map xi to a higher dimension by using Ⲫ, i.e Ⲫ(xi). Then there we are taking dot 
+product i.e similarity. We can further generalize this by saying we don’t need Ⲫ, we can use kernel. Kernels make the points linearly separable without even going to high dimensional space. 

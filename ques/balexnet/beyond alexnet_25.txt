@@ -1,0 +1,3 @@
+For Image Recognition problem can we 
+directly use image net to find out the 
+objects for recognition 

@@ -1,0 +1,1 @@
+Yes. As you pass on the there is some decay, sometimes the data which is closer have more importance. People have come up with bi-directional RNNs, where the information flows both the ways

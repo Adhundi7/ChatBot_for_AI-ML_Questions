@@ -1,0 +1,1 @@
+Can you explain some tricks as you mentioned about initialization? Also about softmax?

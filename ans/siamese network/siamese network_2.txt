@@ -1,0 +1,1 @@
+The philosophy of proxy task is similar to W2V.

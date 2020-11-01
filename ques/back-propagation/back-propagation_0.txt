@@ -1,0 +1,1 @@
+The loss is at only at the output level, not at the intermediate level ?

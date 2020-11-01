@@ -1,0 +1,5 @@
+Why PCA actually works? Covariance
+matrix, Eigen Values and Eigen vectors?
+Esentially Eigen Values scale the metrics. Why does the scaling of the covariance metric works? How does this process works? Geometrically how does this works
+
+ 

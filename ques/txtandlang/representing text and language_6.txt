@@ -1,0 +1,1 @@
+If the world is evolving, how do our machine learning models cope? How do we deal with growing data? What are the risks involved? How is it different from traditional software?

@@ -1,0 +1,4 @@
+No, using the same filter size you will be effectively looking at the larger area in the input images.
+Cont..
+Yes. it doesn’t change. 
+

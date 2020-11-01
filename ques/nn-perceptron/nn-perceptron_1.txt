@@ -1,0 +1,1 @@
+Is there a relationship between dimensions of weight matrix and input matrix? Are we increasing the dimensions to increase the learning capability?

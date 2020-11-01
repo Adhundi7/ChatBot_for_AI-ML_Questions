@@ -1,0 +1,17 @@
+For input I have RGB 3 channels for uniformity of 
+concept.
+Cont...
+No. One filter produces one channel in the output, 
+if I use three channels then I will get three outputs. 
+Typically you have 16 channels (filters) so you 
+will get 16 outputs.
+Cont...
+Specifically googlenet is developed for image 
+processing, but the idea has been taken up 
+bi-pass and other fields as well. Some of the a
+dvantages is happen in image processing first
+because of complexity of the problem. There are 
+also other advancements made in lstms also 
+initially championed by speech and language 
+community.
+ 

@@ -1,0 +1,1 @@
+We use scatter plot to find the relationship between two variables and if we have many dimensions we assume that the variables are independent. Finding the variables are related to each other is our first step? Is this the process of dimensionality reduction?

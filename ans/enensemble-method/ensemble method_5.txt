@@ -1,0 +1,1 @@
+Weak classifiers are guaranteed not to overfit. So a bunch of things which will under fit. If things start over fitting it, does not it work as well.

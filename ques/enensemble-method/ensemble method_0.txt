@@ -1,0 +1,1 @@
+In Bootstrap Aggregation, what is the requirement for the sample size?Are all classifiers applied on samples same - linear?

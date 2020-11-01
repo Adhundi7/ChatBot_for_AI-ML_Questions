@@ -1,0 +1,3 @@
+Activation function and kernel functions are different. I need to look up kernel activation function. Activation function acts on scalar values. Kernel function take two vectors and 
+compute similarity between vectors. It takes two vectors and gives scalar which is a similarity score.
+

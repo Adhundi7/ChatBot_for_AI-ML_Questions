@@ -1,0 +1,3 @@
+We develop algorithm which will reduce. We are not using any human subjectivity in the middle, the algorithm will do this job.
+Cont...
+You give me a problem of 200 features, I apply PCA, i may reduce, I don’t know what is useful. You apply PCA. There is no need to reduce dimensions in all the cases. Mostly, problem statements come with lots of redundancy and noise. If there is a carefully crafted problem with no redundancy and noise, then there is no need of PCA. We capture both height and weight without realising there is correlation between them. There is lot of noise as we use some sensors. PCA is a good starting point. This improves accuracy in most situations, you can visualize, plot and see it, third computationally it becomes faster.

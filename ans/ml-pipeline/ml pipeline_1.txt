@@ -1,0 +1,1 @@
+No, during training process we don’t have test data. During NN training, we defined the error function between what is the ouput of NN and the ideal output.  We try to minimize this error. 

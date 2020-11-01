@@ -1,0 +1,6 @@
+In character level modelling whether the 
+input goes as single character or word
+Cont...
+How does RNN work with the example 
+"hello"? It knows it is going to give 'hello'
+or 'o'

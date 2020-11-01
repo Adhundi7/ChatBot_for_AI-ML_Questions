@@ -1,0 +1,1 @@
+In a normal dataset (not time series) PCA does dimensionality reduction. Is there a parallel to this for time series? Maybe average or standard deviation could impact your time series?

@@ -1,0 +1,3 @@
+They are, but to do that they need to go to higher dimensional space first, using this Ⲫ and then compute the dot product which you might not want to do. With kernel you are finding the similarity between x 
+and y without going to the higher dimensional space. This saves you from going to higher dimensional space. 
+

@@ -1,0 +1,11 @@
+When you write exams we believe exams have new questions coming in. If we learn the concepts well, 
+you will be able to do well. If you byheart the questions and answers, you will not be able to 
+answer new questions well. Our algorithms are not byhearting, we want to make sure that 
+for example a decision tree, if we allow a decision tree to go deep it will byheart all the training data, 
+if we don't stop decision tree it can byheart . The way this is prevented is don't go deep. 
+There are many tricks to do this formally. One simplest way to do this is to keep test data 
+away from training data.
+Cont...
+Generally, we will learn how to do this formally. A major concern for us is how do you do well in unseen data. 
+It is a little conceptually difficult for us to digest that we can ever do that. That is what we always learn. 
+We want to learn not fact but the essence of it.

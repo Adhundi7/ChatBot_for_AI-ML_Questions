@@ -1,0 +1,4 @@
+what is that level of complexity or what defines of those 
+characteristics of the input data which will allows you to
+ decide I really need to go for this Neural Networks 
+and deep learning ?

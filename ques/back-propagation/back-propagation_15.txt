@@ -1,0 +1,1 @@
+In this the Wn+1 is for all the weights or it is for w1, w2 and w3 ? As per the back propagation process we changed the w3 weights. We have taken w2 as the initial loss and adjusting the w3 loss, will that be different or not ?

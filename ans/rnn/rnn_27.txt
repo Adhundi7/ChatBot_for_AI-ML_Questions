@@ -1,0 +1,1 @@
+We initialize everything with zero in the beginning.

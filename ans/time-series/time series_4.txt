@@ -1,0 +1,1 @@
+Assume 7 days of weather is given, we say 4th day temperature needs to be predicted based on 1st, 2nd and 3rd days. This is one item. You come up with a model that says x_4 is a linear or non-limear combination of x_1, x_2 and x_3, we are done.  Typically, all these models will throw more errors as we move farther into the future. 

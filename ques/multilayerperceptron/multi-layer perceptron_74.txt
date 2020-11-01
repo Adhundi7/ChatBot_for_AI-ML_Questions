@@ -1,0 +1,1 @@
+What is second order derivative In gradient descent? 

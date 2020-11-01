@@ -1,0 +1,16 @@
+Surrounding words in the same tuples. 
+These are consecutive words, 
+when I take a tuple it is created out of consecutive words.
+cont....
+For example consider two words “combated” and “struggled” from 
+two different sentences. Now, I want to understand that two words 
+meaning is same and if they are in the exactly same 
+neighborhood as other words around then I can say that in these 
+sentences the words combated and struggled occurs. The 
+neighboring words are exactly in same hence they should be 
+same. 
+
+cont..
+"Yes the humans are building this.
+cont..
+ Because it is easy to deal with fixed length."

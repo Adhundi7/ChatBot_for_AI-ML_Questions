@@ -1,0 +1,1 @@
+Are the stopwords identified automatically by the machine or do we need to give the machine the list of stopwords to be removed?

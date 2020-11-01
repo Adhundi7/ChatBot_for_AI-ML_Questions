@@ -1,0 +1,1 @@
+Question at example of John F Kennedy or Bush. Is there an assumption that we have the data that has the actual information required for the goal? Ff the data did not have the words “iraq” or “war” and it is fed to bag of words or any algorithm, then it wouldn’t identify the speaker?

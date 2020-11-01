@@ -1,0 +1,2 @@
+Is it possible to divide the algorithm like the out put for 
+“going”is one and the output for “for” is one.

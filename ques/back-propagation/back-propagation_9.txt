@@ -1,0 +1,5 @@
+Calculating the derivative 
+at any particular 
+computational block are
+independent of weights 
+also?

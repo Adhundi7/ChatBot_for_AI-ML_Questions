@@ -1,0 +1,1 @@
+If you look at the 3 algorithms that we learned in the beginning they were too simple. Simple perceptron that we looked at is a single line. Modern deep Neural Networks can go to 100s 1000s of layers and the number of weights will be millions. So that's the scale people are now talking about. 

@@ -1,0 +1,1 @@
+If I break the video into multiple images each picture has the lateral shift of the man’s arm and leg depicting the movement of a man. Will it be able to identify that it is a picture of a moving man? 

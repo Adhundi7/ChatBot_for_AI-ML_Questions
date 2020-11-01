@@ -1,0 +1,2 @@
+suppose our loss function is L= (yi - f(xi,w))^2. Instead of square can we use
+absolute.

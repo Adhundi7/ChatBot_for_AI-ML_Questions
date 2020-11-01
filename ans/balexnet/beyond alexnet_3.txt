@@ -1,0 +1,1 @@
+They keep on fighting. Once the generator becomes good enough. Actually, it doesn’t know when to stop. One of the biggest problem in GAN is when to stop. It keeps on going. It never stops. 

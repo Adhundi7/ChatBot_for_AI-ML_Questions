@@ -1,0 +1,1 @@
+Clustering is due to spatial proximity and when i do a cut, the two parts are spatially coherent together. This is not completely random. If i randomly take a point and place it in cluster A or B, the it is completely random.

@@ -1,0 +1,1 @@
+That depends. You can in many of the incremental models, it is possible to just take new data and learn.

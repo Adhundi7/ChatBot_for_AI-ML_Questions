@@ -1,0 +1,1 @@
+Yes we actually implement w layer by layer. You will find a detailed animation as we move forward. linear model, we never have multiple blocks.

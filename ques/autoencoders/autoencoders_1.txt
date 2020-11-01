@@ -1,0 +1,6 @@
+What is a unsupervised learning? What 
+are the applications of it
+Cont...
+Is representation a tool to help machine 
+learning algorithm to learn something 
+that is unsupervised.

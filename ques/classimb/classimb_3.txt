@@ -1,0 +1,12 @@
+One side we talk about our aim is to minimize the error 
+on the other side if we do too much of that it will overfit. 
+One side we say the number of features are as much as 
+possible you should not have your own update on the 
+other side it is ok to do on one side we say we don’t 
+get much with the number of layers and the number 
+of neurons being reduced or increased what all 
+matters is changing the ‘w’ on other side we say 
+it is ok to change. So the subject is like that we 
+have to accept it see what is the right thing to do or
+ in next few weeks we will get bit more clarity 
+where are we?

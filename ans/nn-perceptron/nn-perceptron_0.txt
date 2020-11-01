@@ -1,0 +1,4 @@
+Step is also nonlinear, it’s a discontinuous. Linear doesn’t mean it’s a multiple lines.So, it is also non-linear.
+Cont..
+If you don’t have non-linear look at this example, Consider two matrices w1 and w2then z=w1*x, y=w2*x or else you  can also be written as y=w2*w1*x. If you have multiple you can also represented with small network, i.e it is equivalent to small network. So, you created the deeper one but it’s power is limited to single layer. 
+The moment you put it is a non-linearity layer you cannot do this trick of collapsing and also    it will not collapse. So, you will get much deeper functions.

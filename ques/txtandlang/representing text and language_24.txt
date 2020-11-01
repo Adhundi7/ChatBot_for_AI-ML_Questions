@@ -1,0 +1,1 @@
+Related to previous question. From human perspective is it better to use unigrams or n-grams?Does it depend on data?

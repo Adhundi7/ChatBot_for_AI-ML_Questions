@@ -1,0 +1,1 @@
+How to maximize or minimize W^TW

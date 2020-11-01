@@ -1,0 +1,7 @@
+As a rule, we don't actually.
+ One is a doctor's intuition like there is a textbook knowledge of there is high temperature, then fever. This is a rule. This is what a model does. If w.TX > 1, if temperature is higher than a point, then has fever is what machine learning model also does. However, if the symptoms are too simple, then fine. When the process becomes complex this intuition or rule-based systems wont work. If you want to take a strategic decision in your organisation which is difficult to explain. But you take time to explain, your super expertise at making the strategic decisions has to be captured by the organisation, you have an intuition that comes from many factors, later on you decide that this is a very effective decision. What we are interested is from the patients and disease data we would like to derive the rules about it. If the derived rules are available there is no need of data. If the problem is very simple, i.e, if the temperature is high, then fever, then we don't need data.  
+Cont...
+ Both are different issues here. One is if you look at a rule based solution that is feasible for some diseases. If there is high temperature then fever, it is something even we will be able to tell, so trivial decision. When it is super complex disease, only doctors will know how to handle. 
+Cont..
+We don't discard. It doesn't even exist. For fever and cold we have rule based systems, if you go to super advanced disease speciality you don't have to have rule based systems.
+

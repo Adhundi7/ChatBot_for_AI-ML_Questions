@@ -1,0 +1,1 @@
+Is there a possibility that after going to second minima again we got to a minimum which is higher than that when we use momentum?
